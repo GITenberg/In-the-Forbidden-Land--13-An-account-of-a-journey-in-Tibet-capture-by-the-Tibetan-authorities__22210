@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4851
     wikipedia: http://en.wikipedia.org/wiki/Arnold_Henry_Savage_Landor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22210#In-the-Forbidden-Land--13-An-account-of-a-journey-in-Tibet-capture-by-the-Tibetan-authorities_
 gutenberg_issued: '2007-08-01'
 gutenberg_type: Text
 identifiers:
